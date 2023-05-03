@@ -1,5 +1,9 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Repositorios remotos
+Capitulo 4: Desarrollo de codigo profundos
+capitulo nuevo......
+otro capitulo nuev
 Capitulo 2.1 Flujo de trabajo intermedio
 Capítulo 3: Repositorios remotos
 Capitulo 4: Introduccion a codigos Python
